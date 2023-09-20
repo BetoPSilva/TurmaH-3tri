@@ -1,7 +1,7 @@
 # TurmaH-3tri
 Pensamento Computacional - 1ºAno 
 
-##Professor Roberto
+## Professor Roberto
 
 Sou estudante de Licenciatura em computação pela UFPR - setor palotina, estou no quarto periodo de oito, atuo como professor pelo segundo ano nessa disciplina de pensamento computacional do primeiro ano, em 2021 ministrei pensamento computacional em contraturno no fundamental, antes dava aula de programação de jogos em empresa particular.
 
